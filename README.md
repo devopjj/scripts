@@ -1,2 +1,2 @@
 # scripts
-Scripts to maintain OS or Windows 10
+Scripts tools for Windows 10
